@@ -5,7 +5,7 @@ useremail: admin@gmail.com
 password: 1234567890
 
 -- temp user
-useremail: usergmail.com 
+useremail: user@gmail.com 
 password: 1234567890
 
 # React + Vite
